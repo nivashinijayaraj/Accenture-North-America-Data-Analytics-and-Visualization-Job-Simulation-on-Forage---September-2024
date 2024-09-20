@@ -55,7 +55,16 @@ Make the Powerpoint presentation as per the given template
 Charts Involved :
 Pie Chart
 Bar Chart
+
+
+
 Powerpoint Presentation : PPT
+
+
+
+
+
+
 Task - 4
 Present to the Client:
 Present your powerpoint presentation to the client and deliver the insights of your analysis
