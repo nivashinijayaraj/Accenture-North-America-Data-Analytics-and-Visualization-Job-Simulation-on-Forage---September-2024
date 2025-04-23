@@ -1,70 +1,84 @@
-Task - 1
-Project Understanding:
-A data analyst sits between the business and the data.
-One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
-She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
-Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
-About Client : Social Buzz
+# 📊 Social Buzz Data Analysis Project – Accenture Virtual Experience
 
-Task for Accenture :
-Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
+## 🔍 Project Understanding
 
+A data analyst acts as the bridge between the business and the data. Mae Mulligan, one of Accenture’s Managing Directors and the client lead for Social Buzz, has reviewed the client brief and assembled an internal team of Accenture experts. The project kick-off call with the internal Accenture team is scheduled for tomorrow morning.
 
+### 🧑‍💼 About the Client
+**Client:** Social Buzz  
+**Challenge:** Rapid scaling without sufficient internal resources to manage operations
 
+### 📌 Accenture's Task
+Accenture has been assigned to fulfill the following client requirements:
+1. Audit of big data practice  
+2. Recommendations for IPO  
+3. Analysis of popular content
 
+---
 
-Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories.
-In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
+## 🎯 Task for Data Analyst
 
-Task - 2
-Often you won’t need all these datasets to find what you’re looking for.
-So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
-After Analysis we got data sets needed to complete analysis:
-Reaction Score(score is used to quantified the popularity)
-Content ID
-Reaction Types
-Content type
-Category
-Data Cleaning:
-Clean the data by:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
-Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
-End result will be three cleaned data set :
+The key task is to perform an **analysis of sample datasets** with visualizations to understand the popularity of different content categories.
 
-Reaction Types
-Reactions
-Content
+**Business Question:**  
+_“An analysis of their content categories showing the top 5 categories with the largest popularity.”_
 
+---
 
-Data Modelling:
-Create a final data set by merging 3 tables
-End result will be one spreadsheet
-A cleaned dataset
-Top 5 categories
-Cleaned Data set:
-So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
+## 📊 Task - 2: Data Identification and Cleaning
 
-Task - 3
-Data Visualization and Storytelling:
-Make the Powerpoint presentation as per the given template
+### ✅ Required Datasets Identified:
+- Reaction Score (used to quantify popularity)
+- Content ID
+- Reaction Types
+- Content Type
+- Category
 
-Charts Involved :
-Pie Chart
-Bar Chart
+### 🧹 Data Cleaning Process:
+- Removed rows with missing values
+- Changed data types of certain columns
+- Removed irrelevant columns
 
+### 📁 Cleaned Datasets:
+1. **Reaction Types**  
+2. **Reactions**  
+3. **Content**
 
+---
 
-Powerpoint Presentation : PPT
+## 🧬 Task - 3: Data Modelling
 
+All three cleaned datasets were merged to create a **final data model**, resulting in:
+- **One Cleaned Dataset** for further analysis
+- **Insights on Top 5 Categories**
 
+---
 
+## 📈 Task - 4: Data Visualization and Storytelling
 
+Created visuals as per client requirements:
 
+### 📊 Charts Used:
+- **Pie Chart**
+- **Bar Chart**
 
-Task - 4
-Present to the Client:
-Present your powerpoint presentation to the client and deliver the insights of your analysis
+### 📽️ PowerPoint Presentation:
+- Final insights and visuals were compiled into a presentation file named:  
+  `SocialBuzz_Analysis_PPT.pptx`
+
+---
+
+## 🗣️ Task - 5: Client Presentation
+
+Presented the PowerPoint to the client and delivered insights from the analysis:
+- Highlighted the **Top 5 content categories** by popularity
+- Shared actionable insights through visuals
+- Demonstrated data-driven decision support for content strategy
+
+---
+
+📁 **End Deliverables:**
+- Cleaned Dataset (CSV)
+- Final Merged Dataset (CSV)
+- Pie & Bar Chart Visuals (PNG)
+- PowerPoint Presentation (PPTX)
